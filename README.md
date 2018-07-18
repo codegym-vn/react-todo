@@ -16,7 +16,7 @@ công việc
 - Click nút done, công việc đó được xóa khỏi danh sách
 - App như hình bên dưới 
 
-![component_basic](https://github.com/anhtbok92/ComponentBasicReactNative/blob/master/componentbacsic.PNG)
+![component_basic](https://github.com/anhtbok92/ComponentBasicReactNative/blob/master/componentbasic.PNG)
 
 # Hướng dẫn
 
